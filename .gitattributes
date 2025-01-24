@@ -1,0 +1,5 @@
+# Ensure consistent line endings
+* text=auto
+
+# Node.js dependencies (binary files, leave as-is)
+node_modules/* -text
